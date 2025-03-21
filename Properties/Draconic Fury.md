@@ -1,0 +1,1 @@
+Deals maximum damage on critical hits, **+3** on attack and damage rolls

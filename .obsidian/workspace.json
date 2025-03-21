@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "e32d5b8354549575",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ea5e3b6b3cb691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e810dadd894523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats/Level Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level Up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a00ca73eb3654a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "904ba440bfe5ce01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2cd64408aa9e744",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ea59ddf87dc26c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "590c1852e49e8df0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "157f1fe0645aa686",
+    "type": "split",
+    "children": [
+      {
+        "id": "5295b69d2caca198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70dd0ce1a63f285d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Player Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Player Guide"
+            }
+          },
+          {
+            "id": "0005e8f803acefc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Player Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Player Guide"
+            }
+          },
+          {
+            "id": "ca99fee61127be60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1eb1e91021f82bdf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "435bd170ce02fb11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Player Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Player Guide"
+            }
+          },
+          {
+            "id": "b34efae4ca35b25f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 507.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e2cd64408aa9e744",
+  "lastOpenFiles": [
+    "Stats/Magic Schools.md",
+    "Stats/Stamina.md",
+    "Stats/Abilities/Thu'um/Thu'um.md",
+    "Stats/Abilities/Enchantments/Enchantments.md",
+    "Characters/Race/Bosmer (Wood Elf).md",
+    "Characters/Race/Argonian.md",
+    "Characters/Race/Altmer (High Elf).md",
+    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
+    "Bestiary/Dragons/Alduin.md",
+    "Characters/Deities/Daedra/Jyggalag.md",
+    "Characters/Deities/Miscellaneous_Deities/Sithis.md",
+    "Characters/Deities/Daedra/Nocturnal.md",
+    "Characters/Deities/Daedra/Azurah.md",
+    "Player Guide.md",
+    "Player Guide 1.md",
+    "Characters/Deities/Daedra/Sheogorath.md",
+    "Items/Unique/Wabbajack.md",
+    "Characters/Deities/Daedra/Vaermina.md",
+    "Characters/Deities/Daedra/Sanguine.md",
+    "Characters/Deities/Daedra/Peryite.md",
+    "Characters/Deities/Daedra/Namira.md",
+    "Characters/Deities/Daedra/Molag Bal.md",
+    "Characters/Deities/Daedra/Meridia.md",
+    "Characters/Deities/Daedra/Mephala.md",
+    "Characters/Deities/Daedra/Mehrunes Dagon.md",
+    "Characters/Deities/Daedra/Malacath.md",
+    "Characters/Deities/Daedra/Hircine.md",
+    "Attachments/Pasted image 20250313214154.png",
+    "Stats/Abilities",
+    "Attachments/Pasted image 20241122202757.png",
+    "Attachments/Pasted image 20241122184421.png",
+    "Quests/Main Quests/Unbound",
+    "Attachments/Pasted image 20250316234603.png",
+    "Attachments/Pasted image 20250316235211.png",
+    "Attachments/Pasted image 20250316235131.png",
+    "Attachments/Pasted image 20250316235108.png",
+    "Attachments/Pasted image 20250316235045.png",
+    "Attachments/Pasted image 20250316234945.png",
+    "Attachments/Pasted image 20250316234659.png",
+    "Characters/Encounters/Helgen",
+    "Characters/Encounters",
+    "Encounters",
+    "Players",
+    "Skyrim/Places/Castle",
+    "Quests/Side Quests",
+    "Quests/Faction Quests/Imperial Legion",
+    "Characters/NPCs/Solitude",
+    "Worldbuilding/Lore/Languages/Untitled.canvas",
+    "Worldbuilding/Bestiary/Untitled.canvas",
+    "Worldbuilding/06_Bestiary/Wisp/Untitled.canvas",
+    "Templates/Untitled.canvas"
+  ]
+}

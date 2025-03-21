@@ -1,0 +1,93 @@
+{
+  "mapMarkers": [
+    {
+      "id": "ezaros-world-region",
+      "lastAccessed": 1732485793504,
+      "markers": [
+        {
+          "id": "ID_1bb84a189998",
+          "type": "default",
+          "loc": [
+            -1.781494140625,
+            1.666015625
+          ],
+          "link": "The Apprentice Stone",
+          "layer": "%5B%5BSkyrim.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Worldbuilding/Locations_and_Landmarks/Standing_Stones/Map.md"
+      ]
+    },
+    {
+      "id": "skyrim",
+      "lastAccessed": 1732564414205,
+      "markers": [
+        {
+          "id": "ID_f9da9b8a5af9",
+          "type": "default",
+          "loc": [
+            -3.0460205078125,
+            3.00390625
+          ],
+          "link": "The Warrior Stone",
+          "layer": "%5B%5BSkyrims.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

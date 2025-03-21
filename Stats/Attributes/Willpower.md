@@ -1,0 +1,6 @@
+---
+skills:
+  - "[[Alteration]]"
+  - "[[Destruction]]"
+  - "[[Restoration]]"
+---

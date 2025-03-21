@@ -1,0 +1,1 @@
+**+2** on damage rolls

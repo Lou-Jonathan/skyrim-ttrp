@@ -1,0 +1,3 @@
+The Imperial Legion is the military force of the Empire of Tamriel. Serving under the authority of the Emperor, the Legion, with its vast numbers, quality training, and rigid discipline, is considered one of the most powerful fighting forces ever assembled. A history and detailed description of the Legion is provided here.
+
+The Legion is a joinable faction in Skyrim, and its conflict with the Stormcloak Rebellion plays an integral role in the main quest. The Imperial Legion is in conflict with the Stormcloaks during Skyrim's Civil War, and is charged with hunting down and eradicating its members throughout the province and quelling the rebellion. The Imperial Legion in Skyrim is led by General Tullius.

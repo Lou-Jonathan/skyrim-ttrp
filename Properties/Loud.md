@@ -1,0 +1,1 @@
+Disadvantage on Stealth Checks.

@@ -1,0 +1,14 @@
+{
+  "enabledCssSnippets": [
+    "reader-mode-fix"
+  ],
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": "#4a2bc5",
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "showRibbon": false
+}

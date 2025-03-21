@@ -1,0 +1,1 @@
++1d6 damage against werewolves and undead

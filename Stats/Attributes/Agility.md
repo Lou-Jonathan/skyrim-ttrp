@@ -1,0 +1,6 @@
+---
+skills:
+  - "[[Security]]"
+  - "[[Sneak]]"
+  - "[[Marksman]]"
+---

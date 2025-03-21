@@ -1,0 +1,1 @@
+Damage Reduction 1, Critical Hit Immunity

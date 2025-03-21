@@ -1,0 +1,1 @@
++1 on attack and damage rolls

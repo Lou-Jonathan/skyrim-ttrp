@@ -1,0 +1,6 @@
+---
+skills:
+  - "[[Mercantile]]"
+  - "[[Speechcraft]]"
+  - "[[Illusion]]"
+---

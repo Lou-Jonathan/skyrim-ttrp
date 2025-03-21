@@ -1,0 +1,6 @@
+---
+skills:
+  - "[[Alchemy]]"
+  - "[[Conjuration]]"
+  - "[[Mysticism]]"
+---

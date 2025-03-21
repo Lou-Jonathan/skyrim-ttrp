@@ -1,0 +1,13 @@
+/* Reduce space between headings and paragraphs in reader mode */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-bottom: 0.5em; /* Adjust this value as needed */
+}
+
+.markdown-preview-view p {
+  margin-top: 0; /* Ensure no extra margin at the top of paragraphs */
+}
