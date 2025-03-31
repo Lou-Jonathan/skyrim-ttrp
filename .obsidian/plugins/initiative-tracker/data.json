@@ -98,7 +98,29 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Black Bear",
+        "initiative": 14,
+        "static": false,
+        "modifier": 0,
+        "hp": 19,
+        "currentMaxHP": 19,
+        "cr": "1/2",
+        "ac": 11,
+        "currentAC": 11,
+        "id": "ID_0b2b6ae85af8",
+        "currentHP": 19,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "3d8 + 5",
+        "rollHP": false
+      }
+    ],
     "state": false,
     "name": "Bear",
     "round": 1,

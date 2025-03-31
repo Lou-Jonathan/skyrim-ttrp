@@ -1,7 +1,7 @@
 ## **Starting Stats**
 ---
-All player starts with 10 levels in every skill.
-All player starts with 10 levels in every attributes.
+All players start with 10 levels in every skill.
+All players start with 10 levels in every attributes.
 ## **Skill Points**
 ---
 Base skill points per level: 10
@@ -110,3 +110,6 @@ Int 12-10=2; 2x5=10
 Per 14-10=4; 4x2 = 8
 Wil 15-10=5; 5x3 = 15
 Total Magicka Pool : 10(Initial Pool) + 10(Int) + 8(Per) + 15(Wil) = 43 
+
+
+
