@@ -163,7 +163,7 @@
     "creatures": [
       {
         "name": "Bobtak Kertuk (Iulian)",
-        "initiative": 4,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 10,
@@ -185,7 +185,7 @@
       },
       {
         "name": "Ðicky_$t3in (Cliff)",
-        "initiative": 11,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 10,
@@ -207,7 +207,7 @@
       },
       {
         "name": "J'taro (Alex)",
-        "initiative": 15,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 10,
@@ -229,7 +229,7 @@
       },
       {
         "name": "Khozran (J-F)",
-        "initiative": 4,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 10,
@@ -251,7 +251,7 @@
       },
       {
         "name": "Skidi (Mathis)",
-        "initiative": 9,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -273,7 +273,7 @@
       },
       {
         "name": "Giant Wolf Spider",
-        "initiative": 10,
+        "initiative": 4,
         "static": false,
         "modifier": 3,
         "hp": 11,
@@ -281,7 +281,7 @@
         "cr": "1/4",
         "ac": 13,
         "currentAC": 13,
-        "id": "ID_4bb81a082a69",
+        "id": "ID_78ea1bbbcb99",
         "currentHP": 11,
         "tempHP": 0,
         "status": [],
@@ -294,7 +294,7 @@
       },
       {
         "name": "Spider",
-        "initiative": 3,
+        "initiative": 10,
         "static": false,
         "modifier": 2,
         "hp": 1,
@@ -302,7 +302,7 @@
         "cr": "0",
         "ac": 12,
         "currentAC": 12,
-        "id": "ID_e959295a8ae9",
+        "id": "ID_386aa89a687a",
         "currentHP": 1,
         "tempHP": 0,
         "status": [],
@@ -315,7 +315,7 @@
       },
       {
         "name": "Spider",
-        "initiative": 18,
+        "initiative": 6,
         "static": false,
         "modifier": 2,
         "hp": 1,
@@ -323,7 +323,7 @@
         "cr": "0",
         "ac": 12,
         "currentAC": 12,
-        "id": "ID_4a19590a6869",
+        "id": "ID_c81b0bf8093a",
         "currentHP": 1,
         "tempHP": 0,
         "status": [],
@@ -336,7 +336,7 @@
       },
       {
         "name": "Spider",
-        "initiative": 15,
+        "initiative": 20,
         "static": false,
         "modifier": 2,
         "hp": 1,
@@ -344,7 +344,7 @@
         "cr": "0",
         "ac": 12,
         "currentAC": 12,
-        "id": "ID_abfafbba98ab",
+        "id": "ID_596aaa49a998",
         "currentHP": 1,
         "tempHP": 0,
         "status": [],
@@ -391,5 +391,5 @@
     "showXP": true,
     "sidebarIcon": true
   },
-  "rollPlayerInitiatives": 0
+  "rollPlayerInitiatives": 1
 }

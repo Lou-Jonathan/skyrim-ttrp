@@ -11,14 +11,17 @@
             "id": "51d98932a3a8304b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/NPCs/Thalmor Embassy/Elenwen.md",
-                "mode": "source",
-                "source": false
+                "file": "Quests/Main Quests/Unbound/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Elenwen"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -238,6 +241,9 @@
   },
   "active": "51d98932a3a8304b",
   "lastOpenFiles": [
+    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
+    "Quests/Main Quests/Unbound/Untitled.canvas",
+    "Characters/NPCs/Thalmor Embassy/Elenwen.md",
     "Items/Weapons/Weapon.md",
     "Items/Useless Junk Loot Table for J-F.md",
     "Bestiary/Bestiary.md",
@@ -249,7 +255,6 @@
     "Stats/Abilities/Enchantments/Enchantments.md",
     "Stats/Abilities/Thu'um/Thu'um.md",
     "Items/Armors/Armors.md",
-    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Characters/Players/Skidi (Mathis).md",
     "Characters/Players/Khozran (J-F).md",
     "Characters/Players/Ðicky_$t3in (Cliff).md",
@@ -260,12 +265,10 @@
     "Characters/Players",
     "Bestiary/Draugr/Draugr.md",
     "Bestiary/Draugr/Draugr Deathlord.md",
-    "Characters/NPCs/Thalmor Embassy/Elenwen.md",
     "Stats/Abilities/Thu'um/Unrelenting Force/Unrelenting Force.md",
     "Bestiary/Atronachs/Flame Atronach.md",
     "Characters/Encounters/Helgen/Untitled.md",
     "Characters/Encounters/Helgen/Drawing 2025-04-05 18.27.21.excalidraw.md",
-    "Characters/Encounters/Helgen/Soldier 4.md",
     "Attachments/Pasted image 20250313214154.png",
     "Stats/Abilities",
     "Attachments/Pasted image 20241122202757.png",
