@@ -11,17 +11,14 @@
             "id": "51d98932a3a8304b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
-                "viewState": {
-                  "x": 152.71108464112496,
-                  "y": 262.2671921116601,
-                  "zoom": 0.588606800596061
-                }
+                "file": "Items/Weapons/Weapon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Helgen Encounter"
+              "icon": "lucide-file",
+              "title": "Weapon"
             }
           }
         ]
@@ -241,6 +238,18 @@
   },
   "active": "51d98932a3a8304b",
   "lastOpenFiles": [
+    "Items/Useless Junk Loot Table for J-F.md",
+    "Bestiary/Bestiary.md",
+    "Characters/Deities/Deities.md",
+    "Stats/Stamina.md",
+    "Stats/Magic Schools.md",
+    "Stats/Level Up.md",
+    "Stats/Experience.md",
+    "Stats/Abilities/Enchantments/Enchantments.md",
+    "Stats/Abilities/Thu'um/Thu'um.md",
+    "Items/Armors/Armors.md",
+    "Items/Weapons/Weapon.md",
+    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Characters/Players/Skidi (Mathis).md",
     "Characters/Players/Khozran (J-F).md",
     "Characters/Players/Ðicky_$t3in (Cliff).md",
@@ -249,26 +258,14 @@
     "Breton.md",
     "Characters/Players.md",
     "Characters/Players",
-    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Bestiary/Draugr/Draugr.md",
     "Bestiary/Draugr/Draugr Deathlord.md",
-    "Characters/Deities/Deities.md",
-    "Bestiary/Bestiary.md",
-    "Items/Weapons/Weapon.md",
     "Characters/NPCs/Thalmor Embassy/Elenwen.md",
-    "Stats/Level Up.md",
-    "Stats/Abilities/Thu'um/Thu'um.md",
     "Stats/Abilities/Thu'um/Unrelenting Force/Unrelenting Force.md",
     "Bestiary/Atronachs/Flame Atronach.md",
     "Characters/Encounters/Helgen/Untitled.md",
     "Characters/Encounters/Helgen/Drawing 2025-04-05 18.27.21.excalidraw.md",
     "Characters/Encounters/Helgen/Soldier 4.md",
-    "Characters/Race/Altmer (High Elf).md",
-    "Items/Weapons/War Axes/Dragonbone War Axe.md",
-    "Items/Armors/Armors.md",
-    "Stats/Magic Schools.md",
-    "Stats/Stamina.md",
-    "Stats/Experience.md",
     "Attachments/Pasted image 20250313214154.png",
     "Stats/Abilities",
     "Attachments/Pasted image 20241122202757.png",
