@@ -53,6 +53,82 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "Dawnstar",
+      "lastAccessed": 1743915307428,
+      "markers": [
+        {
+          "id": "ID_09787b5b99f8",
+          "type": "default",
+          "loc": [
+            -0.490478515625,
+            1.25341796875
+          ],
+          "layer": "%5B%5BPasted%20image%2020250406005319.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d97b48698a8a",
+          "type": "default",
+          "loc": [
+            -0.861572265625,
+            1.08154296875
+          ],
+          "link": "Sleeping Giant Inn",
+          "layer": "%5B%5BPasted%20image%2020250406005319.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Best inn in Dawnstar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_c8f929b8e909",
+          "type": "default",
+          "loc": [
+            -0.810791015625,
+            1.09130859375
+          ],
+          "layer": "%5B%5BPasted%20image%2020250406005319.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79caaa9ada98",
+          "type": "default",
+          "loc": [
+            -0.967041015625,
+            0.95263671875
+          ],
+          "layer": "%5B%5BPasted%20image%2020250406005319.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Skyrim/Cities_and_Towns/Cities/Dawnstar.md"
+      ]
     }
   ],
   "defaultMarker": {
