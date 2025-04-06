@@ -151,12 +151,20 @@
         ],
         "moons": [
           {
-            "name": "Moon",
-            "cycle": 29.530588853,
-            "offset": 9.24953,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000000",
-            "id": "ID_a9ab186b1819"
+            "name": "Masser",
+            "cycle": 24,
+            "offset": 6,
+            "faceColor": "#b52626",
+            "shadowColor": "#000",
+            "id": "ID_f98b2879c8d8"
+          },
+          {
+            "name": "Secunda",
+            "cycle": 8,
+            "offset": 2,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_ba5b09ba283b"
           }
         ],
         "leapDays": [
@@ -314,271 +322,9 @@
         "month": 7,
         "year": 201
       },
-      "events": [
-        {
-          "name": "Summer Solstice",
-          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
-          "id": "824599",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Winter Solstice",
-          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
-          "id": "824600",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Spring Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824601",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Autumn Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824602",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Christmas",
-          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
-          "id": "824603",
-          "note": null,
-          "date": {
-            "day": 25,
-            "month": 11,
-            "year": [
-              null,
-              null
-            ]
-          },
-          "type": "Recurring",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Paschal Full Moon",
-          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
-          "id": "824604",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter",
-          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
-          "id": "824605",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter Monday",
-          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
-          "id": "824606",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Good Friday",
-          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
-          "id": "824607",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Pentecost",
-          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
-          "id": "824608",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "New Year's Day",
-          "description": "New Year's Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
-          "id": "824609",
-          "note": null,
-          "date": {
-            "day": 1,
-            "year": [
-              null,
-              null
-            ],
-            "month": 0
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Valentine's Day",
-          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
-          "id": "824610",
-          "note": null,
-          "date": {
-            "day": 14,
-            "year": [
-              null,
-              null
-            ],
-            "month": 1
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Halloween",
-          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
-          "id": "824611",
-          "note": null,
-          "date": {
-            "day": 31,
-            "year": [
-              null,
-              null
-            ],
-            "month": 9
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Introduction of the Gregorian Calendar",
-          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
-          "id": "824614",
-          "note": null,
-          "type": "Date",
-          "date": {
-            "day": 15,
-            "year": 1582,
-            "month": 9
-          },
-          "category": "historical-events",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        }
-      ],
+      "events": [],
       "id": "ID_685a597ae9c9",
-      "categories": [
-        {
-          "name": "Historical Events",
-          "id": "historical-events",
-          "color": "#455A64"
-        },
-        {
-          "name": "Miscellaneous Events",
-          "id": "miscellaneous-events",
-          "color": "#0288D1"
-        }
-      ],
+      "categories": [],
       "dateFormat": "YYYY-MM-DD"
     }
   ],

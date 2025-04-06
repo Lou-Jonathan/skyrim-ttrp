@@ -256,38 +256,55 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
-        "id": "8f05395069366fe2",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4e0e250c421e9668",
+            "id": "ac22018186ec04cb",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_685a597ae9c9",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 17,
+                    "month": 7,
+                    "year": 201
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 17,
+                    "month": 7,
+                    "year": 201
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_98bb89c8583b",
+                "child": "ID_08eae90b4baa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       },
       {
-        "id": "2d7f5b04f462c3b1",
+        "id": "cdf1e5f291ed03d3",
         "type": "tabs",
         "children": [
           {
-            "id": "cb00c2e3a188438e",
+            "id": "e2ec5f9705dc11c2",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_685a597ae9c9",
+                "id": "ID_08eae90b4baa",
+                "parent": "ID_98bb89c8583b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
@@ -315,7 +332,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e9d82e8a625d192c",
+  "active": "ac22018186ec04cb",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "Kanban.md",
