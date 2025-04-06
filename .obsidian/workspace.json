@@ -11,34 +11,17 @@
             "id": "f94333230e2bd026",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/NPC_Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
+                "viewState": {
+                  "x": -620.8796588527715,
+                  "y": -578.3987762717427,
+                  "zoom": -1.333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "NPC_Template"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1a066683b700ee02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "964e08d630518308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/NPC_Template_For_Max.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NPC_Template_For_Max"
+              "icon": "lucide-layout-dashboard",
+              "title": "Helgen Encounter"
             }
           }
         ]
@@ -114,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/NPC_Template_For_Max.md",
+                "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NPC_Template_For_Max"
+              "title": "Backlinks for Helgen Encounter"
             }
           },
           {
@@ -133,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/NPC_Template_For_Max.md",
+                "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NPC_Template_For_Max"
+              "title": "Outgoing links from Helgen Encounter"
             }
           },
           {
@@ -176,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/NPC_Template_For_Max.md",
+                "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NPC_Template_For_Max"
+              "title": "Outline of Helgen Encounter"
             }
           },
           {
@@ -215,7 +198,8 @@
               "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "8f05395069366fe2",
@@ -252,13 +236,18 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "964e08d630518308",
+  "active": "f94333230e2bd026",
   "lastOpenFiles": [
+    "Attachments/sample-3s.mp3",
     "Templates/NPC_Template.md",
+    "Archetypes/Assassin.md",
+    "Characters/NPCs/Thalmor Embassy/Untitled.md",
+    "Archetypes/CLown.md",
+    "Characters/Untitled.md",
+    "Characters/NPCs/Thalmor Embassy/Untitled 1.md",
     "Templates/NPC_Template_For_Max.md",
     "Templates/Greatsword Template.md",
     "Templates/Heavy Armor Template.md",
@@ -271,7 +260,6 @@
     "Templates/Bow Template.md",
     "Items/Weapons/Bows/Untitled.md",
     "Templates/Archetype Template.md",
-    "Characters/NPCs/Thalmor Embassy/Untitled.md",
     "Templates/Dagger Template.md",
     "Bestiary/Bestiary.md",
     "Skyrim/Places/Inns/Sleeping Giant Inn.md",
@@ -282,13 +270,8 @@
     "Characters/Players/Bobtak Kertuk (Iulian).md",
     "Untitled",
     "Characters/Deities/Daedra/Molag Bal.md",
-    "Player Guide 1.md",
-    "Characters/Deities/Daedra/Mehrunes Dagon.md",
-    "Items/Weapons/Battleaxes/Daedric Battleaxe.md",
     "Quests/Main Quests/Unbound/Untitled.canvas",
     "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
-    "Characters/NPCs/Thalmor Embassy/Elenwen.md",
-    "Items/Weapons/Weapon.md",
     "Characters/Players",
     "Attachments/Pasted image 20250313214154.png",
     "Stats/Abilities",
