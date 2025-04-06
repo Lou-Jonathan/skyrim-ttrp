@@ -11,20 +11,28 @@
             "id": "51d98932a3a8304b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "a1830938baca9095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Quests/Main Quests/Unbound/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Skyrim/Cities_and_Towns/Cities/Dawnstar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Dawnstar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"sub-category\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skyrim/Cities_and_Towns/Cities/Dawnstar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Dawnstar"
             }
           },
           {
@@ -115,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Guide.md",
+                "file": "Skyrim/Cities_and_Towns/Cities/Dawnstar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Player Guide"
+              "title": "Outgoing links from Dawnstar"
             }
           },
           {
@@ -158,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Guide.md",
+                "file": "Skyrim/Cities_and_Towns/Cities/Dawnstar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Player Guide"
+              "title": "Outline of Dawnstar"
             }
           },
           {
@@ -197,8 +206,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "8f05395069366fe2",
@@ -239,10 +247,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "51d98932a3a8304b",
+  "active": "a1830938baca9095",
   "lastOpenFiles": [
-    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
+    "Attachments/Pasted image 20250406005319.png",
+    "Properties/Light.md",
+    "Characters/Players/Bobtak Kertuk (Iulian).md",
+    "Untitled",
+    "Characters/Deities/Daedra/Molag Bal.md",
+    "Player Guide 1.md",
+    "Characters/Deities/Daedra/Mehrunes Dagon.md",
+    "Items/Weapons/Battleaxes/Daedric Battleaxe.md",
     "Quests/Main Quests/Unbound/Untitled.canvas",
+    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Characters/NPCs/Thalmor Embassy/Elenwen.md",
     "Items/Weapons/Weapon.md",
     "Items/Useless Junk Loot Table for J-F.md",
@@ -259,16 +275,10 @@
     "Characters/Players/Khozran (J-F).md",
     "Characters/Players/Ðicky_$t3in (Cliff).md",
     "Characters/Players/J'taro (Alex).md",
-    "Characters/Players/Bobtak Kertuk (Iulian).md",
     "Breton.md",
     "Characters/Players.md",
     "Characters/Players",
     "Bestiary/Draugr/Draugr.md",
-    "Bestiary/Draugr/Draugr Deathlord.md",
-    "Stats/Abilities/Thu'um/Unrelenting Force/Unrelenting Force.md",
-    "Bestiary/Atronachs/Flame Atronach.md",
-    "Characters/Encounters/Helgen/Untitled.md",
-    "Characters/Encounters/Helgen/Drawing 2025-04-05 18.27.21.excalidraw.md",
     "Attachments/Pasted image 20250313214154.png",
     "Stats/Abilities",
     "Attachments/Pasted image 20241122202757.png",
@@ -287,7 +297,6 @@
     "Players",
     "Skyrim/Places/Castle",
     "Quests/Side Quests",
-    "Quests/Faction Quests/Imperial Legion",
     "Worldbuilding/Lore/Languages/Untitled.canvas",
     "Worldbuilding/Bestiary/Untitled.canvas",
     "Worldbuilding/06_Bestiary/Wisp/Untitled.canvas",

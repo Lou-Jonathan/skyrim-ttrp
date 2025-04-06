@@ -1,3 +1,4 @@
 ---
 race: "[[Nord]]"
+stats: []
 ---

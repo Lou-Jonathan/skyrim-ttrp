@@ -38,6 +38,7 @@
     "questgiver": "multitext",
     "repeatable": "checkbox",
     "NPCs": "multitext",
-    "factions": "multitext"
+    "factions": "multitext",
+    "stats": "multitext"
   }
 }
