@@ -244,6 +244,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -253,6 +254,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -279,8 +281,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_98bb89c8583b",
-                "child": "ID_08eae90b4baa"
+                "id": "ID_98bb89c8583b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -299,7 +300,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_685a597ae9c9",
                 "id": "ID_08eae90b4baa",
                 "parent": "ID_98bb89c8583b"
               },
@@ -328,8 +328,7 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "ac22018186ec04cb",
