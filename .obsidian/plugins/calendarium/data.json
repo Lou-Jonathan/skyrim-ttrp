@@ -2,8 +2,8 @@
   "autoParse": false,
   "calendars": [
     {
-      "name": "Gregorian Calendar",
-      "description": "A calendar for the real world.",
+      "name": "Tamrielic Calendar",
+      "description": "The Tamrielic calendar is composed of twelve distinct months (sometimes called \"Seasons\"), each approximately thirty days in length. Each month has an associated constellation, which is said to affect the traits of anyone born in that month, and each month corresponds roughly to an equal period of time in the Gregorian calendar.",
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "inline-events",
@@ -17,43 +17,43 @@
         "weekdays": [
           {
             "type": "day",
-            "name": "Sunday",
+            "name": "Sundas",
             "id": "ID_19ea684b4a08"
           },
           {
             "type": "day",
-            "name": "Monday",
+            "name": "Morndas",
             "id": "ID_2928b90ab949"
           },
           {
             "type": "day",
-            "name": "Tuesday",
+            "name": "Tirdas",
             "id": "ID_0ad9a8f9e95b"
           },
           {
             "type": "day",
-            "name": "Wednesday",
+            "name": "Middas",
             "id": "ID_195a4b290bc9"
           },
           {
             "type": "day",
-            "name": "Thursday",
+            "name": "Turdas",
             "id": "ID_abe8c89b0999"
           },
           {
             "type": "day",
-            "name": "Friday",
+            "name": "Fredas",
             "id": "ID_2b5b8a79fa4a"
           },
           {
             "type": "day",
-            "name": "Saturday",
+            "name": "Loredas",
             "id": "ID_1a78cb79c8cb"
           }
         ],
         "months": [
           {
-            "name": "January",
+            "name": "Morning Star",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -61,7 +61,7 @@
             "id": "ID_e9997a780b3a"
           },
           {
-            "name": "February",
+            "name": "Sun's Dawn",
             "type": "month",
             "length": 28,
             "interval": 1,
@@ -69,7 +69,7 @@
             "id": "ID_b8c9ebeb0b89"
           },
           {
-            "name": "March",
+            "name": "First Seed",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -77,7 +77,7 @@
             "id": "ID_b83bda2b9be8"
           },
           {
-            "name": "April",
+            "name": "Rain's Hand",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -85,7 +85,7 @@
             "id": "ID_29baea7b28ab"
           },
           {
-            "name": "May",
+            "name": "Second Seed",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -93,7 +93,7 @@
             "id": "ID_6a3899fad909"
           },
           {
-            "name": "June",
+            "name": "Midyear",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -101,7 +101,7 @@
             "id": "ID_384aeb1afa8a"
           },
           {
-            "name": "July",
+            "name": "Sun's Height",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -109,7 +109,7 @@
             "id": "ID_48b8cba87b8a"
           },
           {
-            "name": "August",
+            "name": "Last Seed",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -117,7 +117,7 @@
             "id": "ID_fa0b1a6bab8a"
           },
           {
-            "name": "September",
+            "name": "Hearthfire",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -125,7 +125,7 @@
             "id": "ID_da880b8af849"
           },
           {
-            "name": "October",
+            "name": "Frostfall",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -133,7 +133,7 @@
             "id": "ID_babba8186968"
           },
           {
-            "name": "November",
+            "name": "Sun's Dusk",
             "type": "month",
             "length": 30,
             "interval": 1,
@@ -141,7 +141,7 @@
             "id": "ID_da582bfaf9b9"
           },
           {
-            "name": "December",
+            "name": "Evening Star",
             "type": "month",
             "length": 31,
             "interval": 1,
@@ -161,13 +161,13 @@
         ],
         "leapDays": [
           {
+            "id": "ID_b91ad86a887a",
             "name": "Leap Day",
-            "type": "leapday",
             "interval": [
               {
                 "ignore": false,
                 "exclusive": false,
-                "interval": 400
+                "interval": 4
               },
               {
                 "ignore": false,
@@ -177,18 +177,19 @@
               {
                 "ignore": false,
                 "exclusive": false,
-                "interval": 4
+                "interval": 400
               }
             ],
-            "offset": 0,
-            "timespan": 1,
             "intercalary": false,
-            "id": "ID_b91ad86a887a"
+            "timespan": 1,
+            "offset": 0,
+            "type": "leapday",
+            "after": "0"
           }
         ],
         "eras": [
           {
-            "name": "Before Christ",
+            "name": "Dawn Era",
             "format": "{{era_name}}",
             "id": "ID_9a2978c92baa",
             "endsYear": false,
@@ -203,29 +204,115 @@
             }
           },
           {
-            "name": "Anno Domini",
+            "name": "Merethic Era",
             "format": "{{era_name}}",
             "date": {
-              "year": 1,
+              "year": 2500,
               "month": 0,
               "day": 1
             },
             "id": "ID_a8db38899a2b",
-            "endsYear": false,
+            "endsYear": true,
             "isEvent": false,
             "type": "era",
             "category": null,
-            "isStartingEra": false
+            "isStartingEra": false,
+            "end": {
+              "year": 1,
+              "month": 11,
+              "day": 31
+            }
+          },
+          {
+            "id": "ID_99b98bca595a",
+            "type": "era",
+            "name": "First Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 0
+            },
+            "end": {
+              "day": 31,
+              "month": 11,
+              "year": 2920
+            }
+          },
+          {
+            "id": "ID_f8d8db8b1928",
+            "type": "era",
+            "name": "Second Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": true,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 0
+            },
+            "end": {
+              "day": 31,
+              "month": 11,
+              "year": 896
+            }
+          },
+          {
+            "id": "ID_4a9bc9183ba9",
+            "type": "era",
+            "name": "Third Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": true,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 0
+            },
+            "end": {
+              "day": 31,
+              "month": 11,
+              "year": 433
+            }
+          },
+          {
+            "id": "ID_d8f9bb882a9a",
+            "type": "era",
+            "name": "Fourth Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1
+            }
           }
         ],
         "offset": 0,
         "padDays": 2,
-        "padMonths": 2
+        "padMonths": 2,
+        "years": [],
+        "useCustomYears": false
       },
       "current": {
-        "day": 6,
-        "month": 3,
-        "year": 2025
+        "day": 17,
+        "month": 7,
+        "year": 201
       },
       "events": [
         {
@@ -482,21 +569,6 @@
       "id": "ID_685a597ae9c9",
       "categories": [
         {
-          "name": "Natural Events",
-          "id": "natural-events",
-          "color": "#2E7D32"
-        },
-        {
-          "name": "Christian Holidays",
-          "id": "christian-holidays",
-          "color": "#9b2c2c"
-        },
-        {
-          "name": "Secular Holidays",
-          "id": "secular-holidays",
-          "color": "#0D47A1"
-        },
-        {
           "name": "Historical Events",
           "id": "historical-events",
           "color": "#455A64"
@@ -506,7 +578,8 @@
           "id": "miscellaneous-events",
           "color": "#0288D1"
         }
-      ]
+      ],
+      "dateFormat": "YYYY-MM-DD"
     }
   ],
   "configDirectory": null,
