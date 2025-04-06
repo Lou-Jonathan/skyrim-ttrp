@@ -43,9 +43,23 @@
               "icon": "lucide-file",
               "title": "Leaflet Map"
             }
+          },
+          {
+            "id": "ce1a0860820d52e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Race/Khajiit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Khajiit"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,7 +295,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_98bb89c8583b"
+                "id": "ID_98bb89c8583b",
+                "child": "ID_08eae90b4baa"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -328,11 +343,16 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "ac22018186ec04cb",
+  "active": "ce1a0860820d52e8",
   "lastOpenFiles": [
+    "Characters/Race/Imperial.md",
+    "Characters/Race/Breton (Half-Elf).md",
+    "Characters/Race/Bosmer (Wood Elf).md",
+    "Characters/Race/Altmer (High Elf).md",
     "Untitled Kanban.md",
     "Kanban.md",
     "TODO & Must.md",
@@ -357,12 +377,8 @@
     "Items/Weapons/Bows/Untitled.md",
     "Templates/Archetype Template.md",
     "Templates/Dagger Template.md",
-    "Bestiary/Bestiary.md",
-    "Skyrim/Places/Inns/Sleeping Giant Inn.md",
-    "Skyrim/Cities_and_Towns/Cities/Dawnstar.md",
     "Attachments/Pasted image 20250406010220.png",
     "Attachments/Pasted image 20250406005319.png",
-    "Properties/Light.md",
     "Untitled",
     "Quests/Main Quests/Unbound/Untitled.canvas",
     "Characters/Players",
