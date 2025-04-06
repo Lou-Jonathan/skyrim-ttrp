@@ -15,9 +15,9 @@
               "state": {
                 "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
                 "viewState": {
-                  "x": -620.8796588527715,
-                  "y": -578.3987762717427,
-                  "zoom": -1.333333333333333
+                  "x": -1061.3274399941142,
+                  "y": -921.5210238486941,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,9 +197,29 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "3d09a4136d44d4aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ef80d08063bfdbe3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       },
       {
         "id": "8f05395069366fe2",
@@ -236,10 +256,11 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f94333230e2bd026",
+  "active": "3d09a4136d44d4aa",
   "lastOpenFiles": [
     "Attachments/sample-3s.mp3",
     "Templates/NPC_Template.md",
