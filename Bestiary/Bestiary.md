@@ -18,7 +18,7 @@
 ---
 ```dataview
 list
-from "Worldbuilding/Bestiary/Chaurus"
+from "Bestiary/Chaurus"
 ```
 
 <img 
@@ -33,7 +33,7 @@ In addition to their normal shouts, dragons can also use various other kinds of 
 ### List of Dragons
 ```dataview
 list
-from "Worldbuilding/06_Bestiary/Dragons"
+from "Bestiary/Dragons"
 ```
 
 
@@ -68,7 +68,7 @@ Most draugr use ancient Nordic weapons, although the high ranked variants can us
 ---
 ```dataview
 list
-from "Worldbuilding/06_Bestiary/Draugr"
+from "Bestiary/Draugr"
 ```
 
 <img src='https://staticdelivery.nexusmods.com/mods/1704/images/7075-2-1483607187.jpg' />

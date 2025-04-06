@@ -16,7 +16,7 @@ gender: Male
 ## Info
 ---
 Doomed to die at the end of the Dragonborns.
-HP: 10
+HP: 0
 Magicka: 10
 Right Hand : [[Iron Greatsword]]
 Left Hand : x
@@ -24,7 +24,7 @@ Armor: [[Hide Light Armor]]
 AC: 11
 To Hit:+0
 Damage: 1d6+0
-Items: Helgen Key Door
+Items: 
 ## Stats
 ---
 - **Level**: 1

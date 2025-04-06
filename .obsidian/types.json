@@ -37,6 +37,7 @@
     "dead": "checkbox",
     "questgiver": "multitext",
     "repeatable": "checkbox",
-    "NPCs": "multitext"
+    "NPCs": "multitext",
+    "factions": "multitext"
   }
 }

@@ -16,7 +16,7 @@ gender: Female
 ## Info
 ---
 Doomed to die at the end of the Dragonborns.
-HP: 10
+HP: 0
 Magicka: 10
 Right Hand: [[Iron War Axe]]
 Left Hand: Hide Shield
@@ -24,6 +24,7 @@ Armor: [[Hide Light Armor]]
 AC: 12
 To Hit: +0
 Damage: 1d4+0
+Helgen Key Door
 ## Stats
 ---
 - **Level**: 1

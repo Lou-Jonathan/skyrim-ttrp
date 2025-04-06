@@ -1,5 +1,115 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Flame Atronach",
+      {
+        "name": "Flame Atronach",
+        "source": "Homebrew (based on Elder Scrolls)",
+        "size": "Medium",
+        "type": "elemental",
+        "subtype": "",
+        "alignment": "neutral",
+        "ac": 15,
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "speed": "40 ft. (hover)",
+        "stats": [
+          8,
+          20,
+          14,
+          12,
+          10,
+          20
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "cold",
+        "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "fire, poison",
+        "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Primordial (Ignan)",
+        "cr": "4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Illumination",
+            "desc": "The fire atronach sheds bright light in a 30-foot radius and dim light to an additional 30 feet.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Water Susceptibility",
+            "desc": "For every 5 feet the fire atronach moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Firebolt",
+            "desc": "Ranged Spell Attack: +7 to hit, reach 60 ft., one target. Hit: 19 (4d6 + 5) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.",
+            "attack_bonus": 7,
+            "damage_dice": "4d6",
+            "damage_bonus": 5
+          }
+        ],
+        "description": "Flame atronachs are the weakest and most common atronachs. Constructed entirely of fire, Flame Atronachs resemble humanoid females wearing black metal armor. They possess horns, pointed ears, three fingers, and two toes.\nFlame Atronachs float above the ground at all times and when moving they leave a trail of fire behind. When idle they often do spins and back flips. Unlike other Atronachs, Flame Atronachs rely on speed, agility, and powerful ranged attacks to dispatch their foes.\n",
+        "image": "https://orig01.deviantart.net/ec62/f/2011/365/d/4/flame_atronach_wallpaper_by_dirtbiker715-d4kue2y.jpg"
+      }
+    ],
+    [
+      "The Snail",
+      {
+        "name": "The Snail",
+        "source": "Homebrew",
+        "size": "Tiny",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": "∞",
+        "hp": "∞",
+        "hit_dice": "∞",
+        "speed": "5 ft. per round",
+        "stats": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "none",
+        "languages": "none",
+        "cr": "∞",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Lethal Contact",
+            "desc": "Any creature that physically touches the Deathsnail, or is touched by it, instantly dies. No saving throw. No resistance. Death is automatic. This death cannot be reversed by anything short of wish or divine intervention.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Anchored Existence",
+            "desc": "The Deathsnail is spiritually tethered to its current target. It always knows their exact location. It will move toward them at 5 feet per round, no matter the distance, plane, or obstacle. If the target dies, it randomly chooses the nearest creature within 60 feet as its next target.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Clean Trail",
+            "desc": "The snail leaves behind a faint, shimmering trail of iridescent slime. The trail is harmless on contact but unnervingly difficult to remove. It always leads to the last known direction of the snail.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [],
+        "legendary_actions": [],
+        "description": "An unstoppable, inevitable force of death in the form of a tiny snail. It moves with inexorable slowness toward its target, leaving behind an eerie glowing trail. Physical contact means instant, irreversible death. There is no escape - only delay.\n"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",

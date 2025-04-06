@@ -16,7 +16,7 @@ gender: Male
 ## Info
 ---
 Doomed to die at the end of the Dragonborns.
-HP: 10
+HP: 0
 Magicka: 10
 Right Hand: [[Iron Battleaxe]]
 Left Hand: X

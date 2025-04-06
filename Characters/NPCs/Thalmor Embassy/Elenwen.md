@@ -7,7 +7,7 @@ factions:
   - "[[Thalmor]]"
 essential: true
 quests:
-  - "[[../../../Quests/Main Quests/Unbound/Unbound]]"
+  - "[[Unbound]]"
   - "[[Diplomatic Immunity]]"
   - "[[Season Unending]]"
 dead: false

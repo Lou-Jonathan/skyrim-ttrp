@@ -1,7 +1,23 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": "Bobtak Kertuk (Iulian)",
+      "path": "Characters/Players/Bobtak Kertuk (Iulian).md",
+      "name": "Bobtak Kertuk (Iulian)",
+      "ac": "11",
+      "hp": 10,
+      "level": 1,
+      "modifier": 0,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Skyrim Party",
+      "players": []
+    }
+  ],
+  "defaultParty": "Skyrim Party",
   "statuses": [
     {
       "name": "Blinded",
@@ -98,7 +114,50 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Black Bear",
+        "initiative": 10,
+        "static": false,
+        "modifier": 0,
+        "hp": 19,
+        "currentMaxHP": 19,
+        "cr": "1/2",
+        "ac": 11,
+        "currentAC": 11,
+        "id": "ID_fb2829590af9",
+        "currentHP": 19,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "3d8 + 5",
+        "rollHP": false
+      },
+      {
+        "name": "Aboleth",
+        "display": "ad",
+        "initiative": 5,
+        "static": false,
+        "modifier": 0,
+        "hp": 135,
+        "currentMaxHP": 135,
+        "cr": "10",
+        "ac": 17,
+        "currentAC": 17,
+        "id": "ID_da58e90a6b5a",
+        "currentHP": 135,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "18d10 + 36"
+      }
+    ],
     "state": false,
     "name": "Bear",
     "round": 1,
@@ -114,7 +173,7 @@
   "warnedAboutImports": false,
   "openState": {
     "battle": true,
-    "party": false,
+    "party": true,
     "status": true,
     "plugin": true,
     "player": true,
