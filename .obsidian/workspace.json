@@ -23,6 +23,55 @@
               "icon": "lucide-layout-dashboard",
               "title": "Helgen Encounter"
             }
+          },
+          {
+            "id": "78a6a200e9695750",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "85ca63887d4d3235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO & Must.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO & Must"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "26d811209deb7a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344fe2bbea9e3e0c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
           }
         ]
       }
@@ -217,9 +266,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "03723ade8c836dbe",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "e3da17b65ded7f5f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       },
       {
         "id": "8f05395069366fe2",
@@ -232,6 +299,22 @@
               "type": "initiative-tracker-creature-view",
               "state": {},
               "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d7f5b04f462c3b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb00c2e3a188438e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
               "title": "Combatant"
             }
           }
@@ -260,8 +343,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3d09a4136d44d4aa",
+  "active": "344fe2bbea9e3e0c",
   "lastOpenFiles": [
+    "TODO & Must.md",
+    "Untitled Kanban.md",
+    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Attachments/sample-3s.mp3",
     "Templates/NPC_Template.md",
     "Archetypes/Assassin.md",
@@ -290,9 +376,7 @@
     "Properties/Light.md",
     "Characters/Players/Bobtak Kertuk (Iulian).md",
     "Untitled",
-    "Characters/Deities/Daedra/Molag Bal.md",
     "Quests/Main Quests/Unbound/Untitled.canvas",
-    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Characters/Players",
     "Attachments/Pasted image 20250313214154.png",
     "Stats/Abilities",
@@ -309,7 +393,6 @@
     "Encounters",
     "Players",
     "Skyrim/Places/Castle",
-    "Quests/Side Quests",
     "Worldbuilding/Lore/Languages/Untitled.canvas",
     "Worldbuilding/Bestiary/Untitled.canvas",
     "Worldbuilding/06_Bestiary/Wisp/Untitled.canvas",
