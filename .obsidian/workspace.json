@@ -35,51 +35,17 @@
             }
           },
           {
-            "id": "85ca63887d4d3235",
+            "id": "e9d82e8a625d192c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "26d811209deb7a40",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "344fe2bbea9e3e0c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -349,9 +315,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e2cd64408aa9e744",
+  "active": "e9d82e8a625d192c",
   "lastOpenFiles": [
     "Untitled Kanban.md",
+    "Kanban.md",
     "TODO & Must.md",
     "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Attachments/sample-3s.mp3",
@@ -380,7 +347,6 @@
     "Attachments/Pasted image 20250406010220.png",
     "Attachments/Pasted image 20250406005319.png",
     "Properties/Light.md",
-    "Characters/Players/Bobtak Kertuk (Iulian).md",
     "Untitled",
     "Quests/Main Quests/Unbound/Untitled.canvas",
     "Characters/Players",
