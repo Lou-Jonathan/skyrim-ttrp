@@ -212,26 +212,6 @@
             }
           },
           {
-            "name": "Merethic Era",
-            "format": "{{era_name}}",
-            "date": {
-              "year": 2500,
-              "month": 0,
-              "day": 1
-            },
-            "id": "ID_a8db38899a2b",
-            "endsYear": true,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": false,
-            "end": {
-              "year": 1,
-              "month": 11,
-              "day": 31
-            }
-          },
-          {
             "id": "ID_99b98bca595a",
             "type": "era",
             "name": "First Era",
@@ -308,6 +288,26 @@
               "day": 1,
               "month": 0,
               "year": 1
+            }
+          },
+          {
+            "name": "Merethic Era",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 2500,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_a8db38899a2b",
+            "endsYear": true,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false,
+            "end": {
+              "year": 1,
+              "month": 11,
+              "day": 31
             }
           }
         ],
