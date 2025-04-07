@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Thalmor.md",
+                "file": "Skyrim/Places/Inns/Sleeping Giant Inn.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Thalmor"
+              "title": "Sleeping Giant Inn"
             }
           }
         ]
@@ -312,9 +312,9 @@
   },
   "active": "f94333230e2bd026",
   "lastOpenFiles": [
+    "Factions/Thalmor.md",
     "Factions/Imperial Legion.md",
     "Factions/Stormcloak.md",
-    "Factions/Thalmor.md",
     "Attachments/Pasted image 20250313165454.png",
     "Attachments/Pasted image 20250313180204.png",
     "Attachments/Pasted image 20250313213902.png",
