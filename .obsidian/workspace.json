@@ -11,17 +11,14 @@
             "id": "f94333230e2bd026",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
-                "viewState": {
-                  "x": -1061.3274399941142,
-                  "y": -921.5210238486941,
-                  "zoom": -0.6666666666666665
-                }
+                "file": "Factions/Imperial Legion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Helgen Encounter"
+              "icon": "lucide-file",
+              "title": "Imperial Legion"
             }
           }
         ]
@@ -246,11 +243,6 @@
               "state": {
                 "calendar": "ID_685a597ae9c9",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 17,
-                    "month": 7,
-                    "year": 201
-                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 17,
@@ -280,6 +272,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_685a597ae9c9",
                 "id": "ID_08eae90b4baa",
                 "parent": "ID_98bb89c8583b"
               },
@@ -314,15 +307,28 @@
   },
   "active": "f94333230e2bd026",
   "lastOpenFiles": [
+    "Factions/Stormcloak.md",
+    "Factions/Thalmor.md",
+    "Factions/Imperial Legion.md",
+    "Attachments/Pasted image 20250313165454.png",
+    "Attachments/Pasted image 20250313180204.png",
+    "Attachments/Pasted image 20250313213902.png",
+    "Attachments/Pasted image 20250313213931.png",
+    "Attachments/Pasted image 20241122205409.png",
+    "Attachments/Pasted image 20241122203547.png",
+    "Attachments/Pasted image 20241122203440.png",
+    "Attachments/Pasted image 20250316234945.png",
+    "Attachments/Pasted image 20250316235131.png",
+    "Attachments/Pasted image 20250406010220.png",
+    "Kanban.md",
+    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Characters/Race/Khajiit.md",
     "Characters/Race/Imperial.md",
     "Characters/Race/Breton (Half-Elf).md",
     "Characters/Race/Bosmer (Wood Elf).md",
     "Characters/Race/Altmer (High Elf).md",
     "Untitled Kanban.md",
-    "Kanban.md",
     "TODO & Must.md",
-    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
     "Attachments/sample-3s.mp3",
     "Templates/NPC_Template.md",
     "Archetypes/Assassin.md",
@@ -339,24 +345,11 @@
     "Templates/War Axe Template.md",
     "Templates/Test Template.md",
     "Templates/Race Template.md",
-    "Templates/Bow Template.md",
-    "Items/Weapons/Bows/Untitled.md",
-    "Templates/Archetype Template.md",
-    "Attachments/Pasted image 20250406010220.png",
-    "Attachments/Pasted image 20250406005319.png",
     "Untitled",
     "Quests/Main Quests/Unbound/Untitled.canvas",
     "Characters/Players",
-    "Attachments/Pasted image 20250313214154.png",
     "Stats/Abilities",
-    "Attachments/Pasted image 20241122202757.png",
-    "Attachments/Pasted image 20241122184421.png",
     "Quests/Main Quests/Unbound",
-    "Attachments/Pasted image 20250316234603.png",
-    "Attachments/Pasted image 20250316235211.png",
-    "Attachments/Pasted image 20250316235131.png",
-    "Attachments/Pasted image 20250316235108.png",
-    "Attachments/Pasted image 20250316235045.png",
     "Characters/Encounters/Helgen",
     "Characters/Encounters",
     "Encounters",
