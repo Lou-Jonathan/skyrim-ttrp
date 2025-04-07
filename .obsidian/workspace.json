@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Daggers/Iron Dagger.md",
+                "file": "Items/Weapons/Daggers/Dwarven Dagger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iron Dagger"
+              "title": "Dwarven Dagger"
             }
           }
         ]
@@ -312,9 +312,13 @@
   },
   "active": "ea7cd7f46bcb54e9",
   "lastOpenFiles": [
+    "Items/Weapons/Daggers/Ebony Dagger.md",
+    "Items/Weapons/Daggers/Elven Dagger.md",
+    "Items/Weapons/Daggers/Glass Dagger.md",
+    "Items/Weapons/Daggers/Orcish Dagger.md",
+    "Items/Weapons/Daggers/Silver Dagger.md",
     "Items/Weapons/Daggers/Steel Dagger.md",
     "Items/Weapons/Daggers/Iron Dagger.md",
-    "Items/Weapons/Daggers/Orcish Dagger.md",
     "Bestiary/Atronachs/Flame Atronach.md",
     "Player Guide.md",
     "Player Guide 1.md",
@@ -346,10 +350,6 @@
     "Archetypes/Assassin.md",
     "Characters/NPCs/Thalmor Embassy/Untitled.md",
     "Archetypes/CLown.md",
-    "Characters/Untitled.md",
-    "Characters/NPCs/Thalmor Embassy/Untitled 1.md",
-    "Templates/NPC_Template_For_Max.md",
-    "Templates/Greatsword Template.md",
     "Untitled",
     "Quests/Main Quests/Unbound/Untitled.canvas",
     "Characters/Players",
