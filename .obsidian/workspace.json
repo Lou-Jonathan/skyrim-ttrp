@@ -243,6 +243,11 @@
               "state": {
                 "calendar": "ID_685a597ae9c9",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 17,
+                    "month": 7,
+                    "year": 201
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 17,
