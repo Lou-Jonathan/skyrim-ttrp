@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Daggers/Dwarven Dagger.md",
+                "file": "Items/Weapons/Daggers/Daedric Dagger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dwarven Dagger"
+              "title": "Daedric Dagger"
             }
           }
         ]
@@ -257,8 +257,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_98bb89c8583b",
-                "child": "ID_08eae90b4baa"
+                "id": "ID_98bb89c8583b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -277,7 +276,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_685a597ae9c9",
                 "id": "ID_08eae90b4baa",
                 "parent": "ID_98bb89c8583b"
               },
@@ -306,19 +304,21 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "ea7cd7f46bcb54e9",
   "lastOpenFiles": [
-    "Items/Weapons/Daggers/Ebony Dagger.md",
-    "Items/Weapons/Daggers/Elven Dagger.md",
-    "Items/Weapons/Daggers/Glass Dagger.md",
-    "Items/Weapons/Daggers/Orcish Dagger.md",
-    "Items/Weapons/Daggers/Silver Dagger.md",
     "Items/Weapons/Daggers/Steel Dagger.md",
+    "Items/Weapons/Daggers/Silver Dagger.md",
+    "Items/Weapons/Daggers/Orcish Dagger.md",
     "Items/Weapons/Daggers/Iron Dagger.md",
+    "Items/Weapons/Daggers/Glass Dagger.md",
+    "Items/Weapons/Daggers/Elven Dagger.md",
+    "Items/Weapons/Daggers/Ebony Dagger.md",
+    "Items/Weapons/Daggers/Dwarven Dagger.md",
+    "Items/Weapons/Daggers/Dragonbone Dagger.md",
+    "Items/Weapons/Daggers/Daedric Dagger.md",
     "Bestiary/Atronachs/Flame Atronach.md",
     "Player Guide.md",
     "Player Guide 1.md",
@@ -347,9 +347,6 @@
     "TODO & Must.md",
     "Attachments/sample-3s.mp3",
     "Templates/NPC_Template.md",
-    "Archetypes/Assassin.md",
-    "Characters/NPCs/Thalmor Embassy/Untitled.md",
-    "Archetypes/CLown.md",
     "Untitled",
     "Quests/Main Quests/Unbound/Untitled.canvas",
     "Characters/Players",
