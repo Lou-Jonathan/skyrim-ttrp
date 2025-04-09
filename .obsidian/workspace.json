@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/Attributes/Endurance.md",
+                "file": "Stats/Attributes/Strength.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endurance"
+              "title": "Strength"
             }
           }
         ]
@@ -311,13 +311,13 @@
   },
   "active": "ea7cd7f46bcb54e9",
   "lastOpenFiles": [
-    "Stats/Attributes/Agility.md",
     "Stats/Attributes/Willpower.md",
     "Stats/Attributes/Strength.md",
     "Stats/Attributes/Speed.md",
     "Stats/Attributes/Personality.md",
     "Stats/Attributes/Intelligence.md",
     "Stats/Attributes/Endurance.md",
+    "Stats/Attributes/Agility.md",
     "Items/Weapons/Daggers/Daedric Dagger.md",
     "Items/Weapons/Daggers/Steel Dagger.md",
     "Items/Weapons/Daggers/Silver Dagger.md",
