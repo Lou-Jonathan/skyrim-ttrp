@@ -2,5 +2,5 @@
 skills:
   - "[[Alchemy]]"
   - "[[Conjuration]]"
-  - "[[Mysticism]]"
+  - "[[Enchanting]]"
 ---
