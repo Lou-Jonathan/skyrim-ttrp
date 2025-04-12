@@ -257,8 +257,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_98bb89c8583b",
-                "child": "ID_08eae90b4baa"
+                "id": "ID_98bb89c8583b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -305,8 +304,7 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "ea7cd7f46bcb54e9",
