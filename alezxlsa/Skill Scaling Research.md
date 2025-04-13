@@ -1,13 +1,12 @@
 
 _per 1 perk point in a skill tree = +1 to the skill mod // each perk point put into a given skill gives 2/3 progression towards an upgrade towards its governing attribute._
 (Past +5 in a skill it becomes 2 pp = +1?)
-Ex: J'taro spends his 3 first perk points for skills in the Strength attribute. At level 3, he has 4/3 progression, upgrading his Strength to 11. At level 4. he has 6/3 progression in Strength, making the attribute a 12.
 
 
 
 I think the following table might be pretty satisfying, but might probably lead to INSANELY HIGH modifiers pretty early on, especially if the attribute modifiers affect skill mods. All of these perks points would also need an astronomical amount of perks to be spent on, but a lack of said perks might help the player forcefully distribute their points in other skills. 
 We may develop a lot of ranks on each Perk may help to artificially inflate the amount of 'spendable', 'unwasted' PP just in case the skill cap is too severe. I think the prospect of skill proficiencies might be a fair thing to consider.
-I'm scared the 2/3 prog system might be bad design, because it probably desensitizes the player to actually use that as an opportunity to spread 
+I'm scared the 2/3 prog system might be bad design, because it probably desensitizes the player to actually use that as an opportunity to spread across multiple attributes.
 
 |      | Perk Points | Total (theorical) Attribute Increases |
 | ---- | ----------- | ------------------------------------- |

@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "e32d5b8354549575",
+    "id": "1379a2a4e1ac85e2",
     "type": "split",
     "children": [
       {
-        "id": "a9ea5e3b6b3cb691",
+        "id": "7989338fed8a494a",
         "type": "tabs",
         "children": [
           {
-            "id": "1d10fb73915f6252",
+            "id": "4e63ccbde2bea113",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alezxlsa/Skill Scaling Research.md",
+                "file": "alezxlsa/Perks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill Scaling Research"
-            }
-          },
-          {
-            "id": "1219b9151215a281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "alezxlsa/Spells of Skyrim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spells of Skyrim"
+              "title": "Perks"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a00ca73eb3654a68",
+    "id": "80a4437f10afd799",
     "type": "split",
     "children": [
       {
-        "id": "904ba440bfe5ce01",
+        "id": "feecb8d5b4f4d1de",
         "type": "tabs",
         "children": [
           {
-            "id": "e2cd64408aa9e744",
+            "id": "e83d4e39eeba6d3c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,13 +48,13 @@
             }
           },
           {
-            "id": "5ea59ddf87dc26c9",
+            "id": "7272a22aabe8e0bb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "590c1852e49e8df0",
+            "id": "fadfe3c13fa4e668",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "157f1fe0645aa686",
+    "id": "af7a50aa29fa3987",
     "type": "split",
     "children": [
       {
-        "id": "5295b69d2caca198",
+        "id": "2348c9311d863949",
         "type": "tabs",
         "children": [
           {
-            "id": "70dd0ce1a63f285d",
+            "id": "915dcd8aa2b5e3af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Guide.md",
+                "file": "alezxlsa/Perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Player Guide"
+              "title": "Backlinks for Perks"
             }
           },
           {
-            "id": "0005e8f803acefc6",
+            "id": "f0a74727e7c92a7c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Guide.md",
+                "file": "alezxlsa/Perks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Player Guide"
+              "title": "Outgoing links from Perks"
             }
           },
           {
-            "id": "ca99fee61127be60",
+            "id": "686ebabedfcbf798",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,7 +137,7 @@
             }
           },
           {
-            "id": "1eb1e91021f82bdf",
+            "id": "f34aba8d64b37524",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,32 +151,22 @@
             }
           },
           {
-            "id": "435bd170ce02fb11",
+            "id": "e6828ce967d6884b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Guide.md",
+                "file": "alezxlsa/Perks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Player Guide"
+              "title": "Outline of Perks"
             }
           },
           {
-            "id": "b34efae4ca35b25f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c8c0e6a25f555fe9",
+            "id": "8a1486f105432e99",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -203,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -221,62 +197,12 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "1d10fb73915f6252",
+  "active": "4e63ccbde2bea113",
   "lastOpenFiles": [
-    "alezxlsa/Spells of Skyrim.md",
     "alezxlsa/Skill Scaling Research.md",
-    "alezxlsa/Perks.md",
-    "alezxlsa/Stamina stuff.md",
-    "TODO & Must.md",
-    "Player Guide 1.md",
-    "Stats/Abilities/Enchantments/Enchantments.md",
-    "Stats/Skills/Destruction.md",
-    "Stats/Skills/Hand to Hand.md",
-    "Stats/Skills/Marksman.md",
-    "Stats/Skills/Mysticism.md",
-    "Stats/Skills/Conjuration.md",
-    "Stats/Experience.md",
-    "Stats/Level Up.md",
-    "Stats/Magic Schools.md",
-    "Stats/Stamina.md",
-    "Stats/Attributes/Willpower.md",
-    "Stats/Attributes/Strength.md",
-    "Stats/Attributes/Speed.md",
-    "Stats/Attributes/Personality.md",
-    "Stats/Attributes/Endurance.md",
-    "Stats/Attributes/Agility.md",
-    "Quests/Main Quests/Unbound/Unbound.md",
-    "alezxlsa",
-    "Quests/Main Quests/Unbound/Helgen Encounter.canvas",
-    "Characters/NPCs/Riverwood/Gerdur.md",
-    "Player Guide.md",
-    "Characters/NPCs/Untitled.md",
-    "Attachments/Pasted image 20250313213902.png",
-    "Attachments/Pasted image 20250313214154.png",
-    "Stats/Abilities",
-    "Attachments/Pasted image 20241122202757.png",
-    "Attachments/Pasted image 20241122184421.png",
-    "Quests/Main Quests/Unbound",
-    "Attachments/Pasted image 20250316234603.png",
-    "Attachments/Pasted image 20250316235211.png",
-    "Attachments/Pasted image 20250316235131.png",
-    "Attachments/Pasted image 20250316235108.png",
-    "Attachments/Pasted image 20250316235045.png",
-    "Attachments/Pasted image 20250316234945.png",
-    "Characters/Encounters/Helgen",
-    "Characters/Encounters",
-    "Encounters",
-    "Players",
-    "Skyrim/Places/Castle",
-    "Quests/Side Quests",
-    "Quests/Faction Quests/Imperial Legion",
-    "Worldbuilding/Lore/Languages/Untitled.canvas",
-    "Worldbuilding/Bestiary/Untitled.canvas",
-    "Worldbuilding/06_Bestiary/Wisp/Untitled.canvas",
-    "Templates/Untitled.canvas"
+    "alezxlsa/Perks.md"
   ]
 }

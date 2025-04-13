@@ -53,7 +53,7 @@ Bound Sword; NOVICE SPELL, base 5 (variable) magicka cost. Creates a magic sword
 | Result       | Steel  | Glass      | Ebony | Daedric | Dragonbone |
 | Magicka cost | 5      | 10         | 20    | 30      | 40         |
 
-Conjure Familiar; NOVICE SPELL, 5 magicka cost. Point somewhere in a 30ft range of you. A familiar is summoned there; it’ll fight for you for 60 seconds.
+Conjure Familiar; NOVICE SPELL, 5 magicka cost. Point somewhere in a 30ft range of you. A wolf familiar is summoned there; it’ll fight for you for 60 seconds.
 
 Raise Zombie; NOVICE SPELL, 5 magicka cost. Pick a deceased weak creature within a 20ft range of you. It will reanimate to fight for you for 60 seconds.
 
@@ -65,7 +65,7 @@ Courage; NOVICE SPELL, action, 60ft range projectile, 5 (variable) magicka cost.
 
 |                   | Novice        | Apprentice     |
 | ----------------- | ------------- | -------------- |
-| Level Restriction | Up to level 4 | Up to level 12 |
+| Level Restriction | Up to level 8 | Up to level 18 |
 | Magicka cost      | 5             | 10             |
 | Healing           | 1d4 + PRS mod | 2d4 + PRS mod  |
 
@@ -73,7 +73,7 @@ Fury; NOVICE SPELL, action, 25ft range projectile, 5 (variable) magicka cost. Sp
 
 |                   | Novice        | Apprentice     |
 | ----------------- | ------------- | -------------- |
-| Level Restriction | Up to level 4 | Up to level 12 |
+| Level Restriction | Up to level 8 | Up to level 18 |
 | Magicka cost      | 5             | 10             |
 
 Alluring Gaze; NOVICE SPELL, bonus action, 10ft range facial expression, 3 magicka cost.  Spell Save DC = 10 + PRS mod // WLP saving throw. You mew and looksmax hard enough that any creature who can see you within range who fails the saving throw have increased disposition towards you. Otherwise, they just think you look mentally challenged.
